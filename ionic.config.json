@@ -1,0 +1,7 @@
+{
+  "name": "Brahma Electric",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
